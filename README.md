@@ -1,0 +1,2 @@
+# basic-dll-injector
+An EXTREMELY basic Dll Injector. Not all code is original. THIS INJECTOR IS MEANT TO BE USED AS A REFERENCE AND FOR TESTING PURPOSES, NOT FOR REAL-LIFE USE.
